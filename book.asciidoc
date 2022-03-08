@@ -1,3 +1,7 @@
+= Mastering the Lightning Network
+Andreas M. Antonopoulos, Olaoluwa Osuntokun, and René Pickhardt
+:numbered: I want numbered sections
+:title-page:
 :toc-title: Table of content
 :toc:
 
@@ -16,7 +20,7 @@ include::03_how_ln_works.asciidoc[]
 <<<
 include::04_node_client.asciidoc[]
 <<<
-include::05_node_operations.asciidoc
+include::05_node_operations.asciidoc[]
 
 <<<
 include::part_2_divider.asciidoc[]
@@ -43,7 +47,7 @@ include::15_payment_requests.asciidoc[]
 <<<
 include::16_security_privacy_ln.asciidoc[]
 <<<
-include::17_conclusion.asciidoc
+include::17_conclusion.asciidoc[]
 
 <<<
 == Appendices
@@ -53,7 +57,7 @@ include::appendix_docker_basics.asciidoc[]
 <<<
 include::appendix_license_notices.asciidoc[]
 <<<
-include::appendix_protocol_messages.asciidoc
+include::appendix_protocol_messages.asciidoc[]
 
 <<<
 == Glossary
